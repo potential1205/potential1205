@@ -1,27 +1,23 @@
-## About me
-
-<span style="background-color: #f6f8fa">회색형광펜</span>
-
 ### 🎓 Major
-- <mark>2017.03 ~ 2023.02</mark> 세종대학교 지능기전공학부 (Department of Intelligent Mechgatronics Engineering at Sejong University, Korea)
+- `2017.03 ~ 2023.02` 세종대학교 지능기전공학부 (Department of Intelligent Mechgatronics Engineering at Sejong University, Korea)
 
-### 📖 Experiences
-- <mark>2024.07 ~</mark> SSAFY 12기
-- 2021.06 ~ 2023.01</span> MAIN LAB
-- 2020.03 ~ 2020.12 OpenYearRound
-- 2017.03 ~ 2017.12 소프트웨어융합대학 고교 SW 멘토링
+### 💼 Experiences
+- `2024.07 ~` SSAFY 12기
+- `2021.06 ~ 2023.01` MAIN LAB (교내 강화학습 연구실)
+- `2020.03 ~ 2020.12` OpenYearRound 13기 (교내 웹 동아리)
+- `2017.03 ~ 2017.12` SW 중심대학 지원사업단 고교 SW 멘토링 1기
 
 ### 🏆 Awards
-- 2022.12 세종대학교 소프트웨어융합대학 학술제 대상
-- 2021.12 한이음 공모전 대상 (과학기술정보통신부 장관상)
+- `2022.12` 세종대학교 소프트웨어융합대학 학술제 대상
+- `2021.12` 한이음 공모전 대상 (과학기술정보통신부 장관상)
 
-### 📰 Publications
-- J.-H. Lee, J.-Y. Park, H.-S. Sim, and H.-S. Lee, “Multi-residential energy scheduling under time-of-use and demand charge tariffs with federated reinforcement learning,” IEEE Transactions on Smart Grid, Vol. 14, No. 6, pp. 4360-4372, Nov. 2023 (10.1109/TSG.2023.3251956). (JCR 2023, SCIE, Top 5.0%, IF 8.6)
+### 📚 Publications
+- `2023.11` “Multi-residential energy scheduling under time-of-use and demand charge tariffs with federated reinforcement learning”, IEEE Transactions on Smart Grid, Vol. 14, No. 6, pp. 4360-4372, Nov. 2023 (10.1109/TSG.2023.3251956). (JCR 2023, SCIE, Top 5.0%, IF 8.6)
 
 <br>
 
 ## Skills & Tools
-### Experienced
+### 🔧 Experienced
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -50,7 +46,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
-### Interested
+### 🚀 Interested
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
@@ -66,4 +62,3 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potential1205" style="width: 315px; height: auto;">
   </a>
 </div>
-
