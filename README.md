@@ -1,11 +1,13 @@
 ## About me
 
+<span style="background-color: #f6f8fa">회색형광펜</span>
+
 ### 🎓 Major
-- 2017.03 ~ 2023.02 세종대학교 지능기전공학부 (Department of Intelligent Mechgatronics Engineering at Sejong University, Korea)
+- <mark>2017.03 ~ 2023.02</mark> 세종대학교 지능기전공학부 (Department of Intelligent Mechgatronics Engineering at Sejong University, Korea)
 
 ### 📖 Experiences
-- 2024.07 ~ SSAFY 12기
-- 2021.06 ~ 2023.01 MAIN LAB
+- <mark>2024.07 ~</mark> SSAFY 12기
+- 2021.06 ~ 2023.01</span> MAIN LAB
 - 2020.03 ~ 2020.12 OpenYearRound
 - 2017.03 ~ 2017.12 소프트웨어융합대학 고교 SW 멘토링
 
