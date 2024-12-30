@@ -56,14 +56,14 @@
 ## Stats
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <a href="https://github.com/potential1205/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=potential1205" style="width: 350px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=potential1205" style="width: 200px; height: auto;">
   </a>
   <a href="https://solved.ac/potential1205/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potential1205" style="width: 315px; height: auto;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potential1205" style="width: 180px; height: auto;">
   </a>
   <img>
   <a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potential1205&layout=compact" alt="Top Languages" style="width: 300px; height: 150px;">    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potential1205&layout=compact" alt="Top Languages" style="width: 200px; height: 100px;">    
   </a>
 
   
