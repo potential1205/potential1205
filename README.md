@@ -4,7 +4,7 @@
 ### 💼 Experiences
 - `2024.07 ~` SSAFY 12기
 - `2021.06 ~ 2023.01` MAIN LAB (교내 강화학습 연구실)
-- `2020.03 ~ 2020.12` OpenYearRound 13기 (교내 웹 동아리)
+- `2020.03 ~ 2020.12` Open Year Round 13기 (교내 웹 동아리)
 - `2017.03 ~ 2017.12` SW 중심대학 지원사업단 고교 SW 멘토링 1기
 
 ### 🏆 Awards
@@ -61,4 +61,10 @@
   <a href="https://solved.ac/potential1205/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potential1205" style="width: 315px; height: auto;">
   </a>
+  <img>
+  <a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potential1205&layout=compact" alt="Top Languages" style="width: 300px; height: 150px;">    
+  </a>
+
+  
 </div>
