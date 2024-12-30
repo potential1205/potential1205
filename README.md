@@ -56,7 +56,7 @@
 ## Stats
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <a href="https://github.com/potential1205/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=potential1205" style="width: 307px; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api?username=potential1205" style="width: 306px; height: auto;">
     </a>
     <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potential1205&layout=compact" alt="Top Languages" style="width: 241px; height: auto;"></a>
   <a href="https://solved.ac/potential1205/">
