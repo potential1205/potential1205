@@ -1,3 +1,4 @@
+## About me
 ### 🎓 Major
 - `2017.03 ~ 2023.02` 세종대학교 지능기전공학부 (Department of Intelligent Mechgatronics Engineering at Sejong University, Korea)
 
