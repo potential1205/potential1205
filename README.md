@@ -54,6 +54,15 @@
 
 <br>
 
+### More
+<a href="https://potential-lee.tistory.com/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Tistory-FA4B3A?style=for-the-badge&logoColor=white" 
+    alt="Tistory Blog"
+  />
+</a>
+
+
 ## Stats
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <a href="https://github.com/potential1205/github-readme-stats">
