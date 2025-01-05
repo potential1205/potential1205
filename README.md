@@ -50,6 +50,7 @@
 ### 🚀 Interested
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 </div>
 
 <br>
