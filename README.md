@@ -14,6 +14,9 @@
 - `2022.12` 세종대학교 소프트웨어융합대학 학술제 대상
 - `2021.12` 한이음 공모전 대상 (과학기술정보통신부 장관상)
 
+### 📜 Certifications
+- `2025.04` SQLD
+
 ### 📚 Publications
 - `2023.11` “Multi-residential energy scheduling under time-of-use and demand charge tariffs with federated reinforcement learning”, IEEE Transactions on Smart Grid, Vol. 14, No. 6, pp. 4360-4372, Nov. 2023 (10.1109/TSG.2023.3251956). (JCR 2023, SCIE, Top 5.0%, IF 8.6)
 
@@ -24,17 +27,14 @@
 ### :zap: Advanced
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-F89820?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=springboot&logoColor=white"/>
-</div>
-
-<div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
 </div>
 
 <div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"/>
