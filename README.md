@@ -20,17 +20,12 @@
 <br>
 
 ## Skills & Tools
-### 🔧 Experienced
+
+### :zap: Advanced
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-F89820?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
-</div>
-
-<div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"/>
 </div>
 
 <div style="display: flex; gap: 10px;">
@@ -47,14 +42,6 @@
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Web3j-8A2BE2?logo=ethereum&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Web3Auth-0A0A0A?logo=web3auth&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Geth-000000?logo=ethereum&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Foundry-3E3E3E?logo=foundry&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"/>
-</div>
-
-<div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
@@ -62,11 +49,26 @@
   <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white"/>
 </div>
 
-### 🚀 Interested
+### 🔧 Experienced
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"/>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Web3j-8A2BE2?logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web3Auth-0A0A0A?logo=web3auth&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Geth-000000?logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Foundry-3E3E3E?logo=foundry&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"/>
+</div>
+
+### :eyes: Interested
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
 </div>
 
 <br>
