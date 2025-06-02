@@ -22,34 +22,44 @@
 ## Skills & Tools
 ### 🔧 Experienced
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-F89820?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"/>
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Web3j-8A2BE2?logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web3Auth-0A0A0A?logo=web3auth&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Geth-000000?logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Foundry-3E3E3E?logo=foundry&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"/>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-232F3E?logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white"/>
 </div>
 
 ### 🚀 Interested
