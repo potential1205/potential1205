@@ -1,4 +1,4 @@
-## About me
+## 소개
 ### 학력
 - `2017.03 ~ 2023.02` 세종대학교 지능기전공학부 (Department of Intelligent Mechgatronics Engineering at Sejong University, Korea)
 
@@ -43,7 +43,7 @@
 
 <br>
 
-## Stats
+## 통계
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <a href="https://github.com/potential1205/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=potential1205" style="width: 305px; height: auto;">
@@ -53,4 +53,8 @@
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potential1205" style="width: 274px; height: auto;">
     </a>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=potential1205)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=potential1205)
+
 
