@@ -35,6 +35,8 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?logo=amazon-aws&logoColor=white"/>
 </div>
 
 <br>
