@@ -1,4 +1,4 @@
-## 소개
+## 주요 이력
 ### 학력
 - `2017.03 ~ 2023.02` 세종대학교 지능기전공학부 (Department of Intelligent Mechgatronics Engineering at Sejong University, Korea)
 
@@ -21,18 +21,14 @@
 
 <br>
 
-## 기술스택
-
+## 기술 스택
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-F89820?logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
-</div>
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  / <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
 </div>
 
@@ -44,6 +40,7 @@
 <br>
 
 ## 통계
+
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <!-- <a href="https://github.com/potential1205/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=potential1205" style="width: 305px; height: auto;">
