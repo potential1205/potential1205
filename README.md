@@ -1,7 +1,4 @@
 
-
-## 통계
-
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <!-- <a href="https://github.com/potential1205/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=potential1205" style="width: 305px; height: auto;">
